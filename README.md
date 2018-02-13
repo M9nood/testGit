@@ -1,1 +1,3 @@
-ลองงานเฉย ๆ
+Test Git repo
+
+npm install
